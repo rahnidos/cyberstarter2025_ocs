@@ -16,22 +16,63 @@ Michał Franczak
 
 ## Co będzie
 
-- Inwentaryzacja
-- Punkt drugi
-- Punkt trzeci
+- Inwentaryzacja 
+- OCS i jego agenty 
+- Skanowanie i kategoryzowanie oprogramowania 
+- CVE Search
+- Skanowanie sieci 
+- Dodatkowe pluginy, własny plugin 
+- Raportowanie 
 
 ---
 
 ## Czego nie będzie
 
-> Cytat lub ważna informacja
+- Instalacji i wstępnej konfiguracji OCS
+- SNMP
+- Powiadamiania
+- Deploymentu
 
 ---
 
-## Slajd 3
+# Inwetaryzacja
 
-### Podsumowanie
+## Komu to potrzebne?
 
-- Kluczowy wniosek 1
-- Kluczowy wniosek 2
-- Kluczowy wniosek 3
+---
+# OCS - Zalety
+- Automatyczna inwentaryzacja
+- Centralne zarządzanie
+- Wykrywanie podatności
+- Poomoc przy zarządzaniu licencjami
+- Skalowalność
+
+---
+# OCS - Wady
+- Wyamaga instalacji agentów
+- Rzadkie aktualizacje
+- Średnio z raportowanie
+- Trzeba się trochę narobić przy konfiguracji
+---
+# OCS - Server 
+(do 10 000 urządzeń)
+- Procesor: Minimum 2 vCPU.
+- RAM: Co najmniej 4 GB.
+- Dysk: Minimum 200 GB
+---
+# OCS - Server
+- MySQL lub MariaDB
+- Apache Web Server
+  - mod_perl
+  - mod_php
+- PHP
+- Perl
+---
+# OCS - Agenty
+- Windows Agent 2.10.1.0
+- Unix/Linux Agent 2.10.2
+- Unix/Linux Redhat repositories
+- MacOS X Agent 2.10.2
+- Android Agent 2.7
+---
+# OCS - Demo
