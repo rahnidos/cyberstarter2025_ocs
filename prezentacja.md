@@ -35,7 +35,7 @@ Michał Franczak
 
 ---
 
-# Inwetaryzacja
+# Inwentaryzacja
 
 ## Komu to potrzebne?
 
@@ -44,17 +44,17 @@ Michał Franczak
 - Automatyczna inwentaryzacja
 - Centralne zarządzanie
 - Wykrywanie podatności
-- Poomoc przy zarządzaniu licencjami
+- Pomoc przy zarządzaniu licencjami
 - Skalowalność
 
 ---
 # OCS - Wady
-- Wyamaga instalacji agentów
+- Wymaga instalacji agentów
 - Rzadkie aktualizacje
 - Średnio z raportowanie
 - Trzeba się trochę narobić przy konfiguracji
 ---
-# OCS - Server 
+# OCS - Serwer 
 (do 10 000 urządzeń)
 - Procesor: Minimum 2 vCPU.
 - RAM: Co najmniej 4 GB.
@@ -76,3 +76,7 @@ Michał Franczak
 - Android Agent 2.7
 ---
 # OCS - Demo
+---
+# Dziękuję bardzo
+
+## [-> Repozytorium](https://github.com/rahnidos/cyberstarter2025_ocs)
