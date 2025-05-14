@@ -25,4 +25,11 @@ curl -sS http://deb.ocsinventory-ng.org/pubkey.gpg | sudo gpg --dearmor -o /etc/
 ```
 
 ```bash
-echo "deb http://deb.ocsinventory-ng.org/debian/ bookworm main"
+echo "deb http://deb.ocsinventory-ng.org/debian/ bookworm main | sudo tee /etc/apt/sources.list.d/ocsinventory.list"
+sudo apt update
+sudo apt install ocsinventory-server ocsinventory-web
+```
+No i jeżeli chcemy też agenta
+```bash
+sudo apt install ocsinventory-agent
+```

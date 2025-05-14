@@ -26,15 +26,6 @@ Michał Franczak
 
 ---
 
-## Czego nie będzie
-
-- Instalacji i wstępnej konfiguracji OCS
-- SNMP
-- Powiadamiania
-- Deploymentu
-
----
-
 # Inwentaryzacja
 
 ## Komu to potrzebne?
@@ -77,6 +68,14 @@ Michał Franczak
 ---
 # OCS - Demo
 ---
+## Czego nie było
+
+- Instalacji i wstępnej konfiguracji OCS
+- SNMP
+- Powiadamiania
+- Deploymentu
+--- 
+
 # Dziękuję bardzo
 
 ## [-> Repozytorium](https://github.com/rahnidos/cyberstarter2025_ocs)
