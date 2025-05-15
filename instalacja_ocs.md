@@ -1,5 +1,3 @@
-# System operacyjny
-
 # Przygotowania
 
 OCS do pracy wymaga Apache z PHPem, bazy danych oraz perla, 
@@ -19,6 +17,8 @@ FLUSH PRIVILEGES;
 EXIT;
 ```
 
+# Instalacja OCS Inventory
+
 ```bash
 sudo apt install gnupg2 curl -y
 curl -sS http://deb.ocsinventory-ng.org/pubkey.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/ocs.gpg
@@ -33,3 +33,5 @@ No i jeżeli chcemy też agenta
 ```bash
 sudo apt install ocsinventory-agent
 ```
+
+
