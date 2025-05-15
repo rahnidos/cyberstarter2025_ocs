@@ -79,3 +79,4 @@ Michał Franczak
 # Dziękuję bardzo
 
 ## [-> Repozytorium](https://github.com/rahnidos/cyberstarter2025_ocs)
+## [-> LinkedIN](https://www.linkedin.com/in/franczak/)
